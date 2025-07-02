@@ -45,7 +45,7 @@ This script adds a simple skin gallery and profile manager to gota.io. You can s
   - Change border color: Shift+B
 
 ## Credits
-- chatGPT   - made fully by AI
+- ChatGPT   - made fully by AI
 
 ## License
 MIT
