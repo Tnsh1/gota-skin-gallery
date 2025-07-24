@@ -25,8 +25,8 @@ This script adds a simple skin gallery and profile manager to gota.io. You can s
 - Go to [gota.io](https://gota.io/).
 - You will see a new gallery button. Click it.
 - **Add skins:**
-  - **Best way:** Go to [skins.gota.io](https://skins.gota.io/). Click the ADD or copy button to add any skin you like to your profile.
-  - **Other way:** Copy the skin name and UUID (or link) using the copy button from the skins site, or type them yourself, then click "Add to Favorites".
+  - **Preferred Method::** Go to [skins.gota.io](https://skins.gota.io/). Click the ADD button to add any skin you like to your profile.
+  - **Alternative:** Copy the skin name and UUID (or link) using the copy button from the skins site, or type them yourself, then click "Add Skin".
 - Favorite: Click the star or use the menu.
 - Delete: Flip a skin card and click "Delete".
 - Profiles: Use the menu (🛠️) to manage skin lists.
@@ -40,9 +40,12 @@ This script adds a simple skin gallery and profile manager to gota.io. You can s
 - You can change all hotkeys in the Hotkeys menu.
 - Default keys:
   - Reset gallery: Shift+0
-  - Open skin site: +
-  - Use skin: -
-  - Change border color: Shift+B
+  - Open skin site: X
+  - Use skin: E
+  - Change border color: B
+  - toggle favorite: F
+  - delete skin: Delete
+  
 
 ## Credits
 - ChatGPT   - made fully by AI
