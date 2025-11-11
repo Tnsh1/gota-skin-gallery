@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Gota.io Skin Gallery
 // @namespace    https://github.com/Tnsh1/gota-skin-gallery
-// @version      0.7
+// @version      0.8
 // @description  In-game skins gallery manager for Gota.io — easily browse and manage your favorite skins; add skins and profiles, search, favorite, apply, and more.
 // @author       Tenshi
 // @match        *://*.gota.io/*
